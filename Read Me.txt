@@ -1,0 +1,19 @@
+Group 05
+Login Details
+----------------------------------------------
+Admin
+User Name - Admin
+password - 1
+
+Cashier
+User Name - Cashier
+password - 2
+
+-----------------------------------------------
+Team Memebers
+
+S.M.C.M.Suraweera         MMW/21/B1/32
+T.P.G.R.Rangana	          SOF/21/B1/20
+K.K.T.D.Jayathilaka	  NET/21/B1/36
+W.A.L.K.Jayaweera         SOF/21/B1/29
+T.M.D.Minosha	          SOF/21/B1/13 

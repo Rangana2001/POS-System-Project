@@ -1,0 +1,76 @@
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe.config
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.pdb
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.AssemblyReference.cache
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Properties.Resources.resources
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.GenerateResource.cache
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.CoreCompileInputs.cache
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.exe
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.pdb
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormLogin.resources
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.AdminDashboard.resources
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.CashierDashboard.resources
+D:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddProduct.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe.config
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.pdb
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.AssemblyReference.cache
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.AdminDashboard.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.CashierDashboard.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddProduct.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormLogin.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Properties.Resources.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.GenerateResource.cache
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.CoreCompileInputs.cache
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.exe
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.pdb
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormManageProduct.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUpdateProduct.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddUser.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Components.ProductCardComponent.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe.config
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.pdb
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.AssemblyReference.cache
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.AdminDashboard.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.CashierDashboard.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Components.ProductCardComponent.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddProduct.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddUser.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormLogin.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormManageProduct.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUpdateProduct.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Properties.Resources.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.GenerateResource.cache
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.CoreCompileInputs.cache
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.exe
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.pdb
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUsers.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormTransactions.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormSalesReport.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe.config
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.exe
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\bin\Debug\SmartBillPosSystem.pdb
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.AssemblyReference.cache
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.AdminDashboard.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.CashierDashboard.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Components.ProductCardComponent.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormManageProduct.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddProduct.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormAddUser.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormLogin.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormSalesReport.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormTransactions.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUpdateProduct.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUsers.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.Properties.Resources.resources
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.GenerateResource.cache
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.csproj.CoreCompileInputs.cache
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.exe
+C:\Users\Chamidu Suraweera\Downloads\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.pdb
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUpdateUser.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormSalesReport.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormTransactions.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUpdateUser.resources
+E:\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.FormUsers.resources
+C:\Users\Chamidu Suraweera\Desktop\UVPA Project\SmartBillPosSystem\SmartBillPosSystem\obj\Debug\SmartBillPosSystem.ReceiptForm.resources

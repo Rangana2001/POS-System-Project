@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B362D6A-8962-49E0-ADF2-831B8AD17FA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SmartBillPosSystem</RootNamespace>
+    <AssemblyName>SmartBillPosSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierDashboard.Designer.cs">
+      <DependentUpon>CashierDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\ProductCardComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\ProductCardComponent.Designer.cs">
+      <DependentUpon>ProductCardComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManageProduct.Designer.cs">
+      <DependentUpon>FormManageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddProduct.Designer.cs">
+      <DependentUpon>FormAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddUser.Designer.cs">
+      <DependentUpon>FormAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalesReport.Designer.cs">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransactions.Designer.cs">
+      <DependentUpon>FormTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateProduct.Designer.cs">
+      <DependentUpon>FormUpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateUser.Designer.cs">
+      <DependentUpon>FormUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsers.Designer.cs">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceiptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiptForm.Designer.cs">
+      <DependentUpon>ReceiptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="smartbillDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smartbillDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smartbillDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smartbillDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smartbillDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smartbillDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smartbillDataSetTransaction.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smartbillDataSetTransaction.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="smartbillUsersDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>smartbillUsersDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashierDashboard.resx">
+      <DependentUpon>CashierDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\ProductCardComponent.resx">
+      <DependentUpon>ProductCardComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManageProduct.resx">
+      <DependentUpon>FormManageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddProduct.resx">
+      <DependentUpon>FormAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddUser.resx">
+      <DependentUpon>FormAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalesReport.resx">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransactions.resx">
+      <DependentUpon>FormTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateProduct.resx">
+      <DependentUpon>FormUpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateUser.resx">
+      <DependentUpon>FormUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsers.resx">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceiptForm.resx">
+      <DependentUpon>ReceiptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="smartbillDataSet.xsc">
+      <DependentUpon>smartbillDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smartbillDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smartbillDataSet.xss">
+      <DependentUpon>smartbillDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSet1.xsc">
+      <DependentUpon>smartbillDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smartbillDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smartbillDataSet1.xss">
+      <DependentUpon>smartbillDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSet2.xsc">
+      <DependentUpon>smartbillDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smartbillDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smartbillDataSet2.xss">
+      <DependentUpon>smartbillDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSetTransaction.xsc">
+      <DependentUpon>smartbillDataSetTransaction.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillDataSetTransaction.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smartbillDataSetTransaction.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smartbillDataSetTransaction.xss">
+      <DependentUpon>smartbillDataSetTransaction.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillUsersDataSet.xsc">
+      <DependentUpon>smartbillUsersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="smartbillUsersDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>smartbillUsersDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="smartbillUsersDataSet.xss">
+      <DependentUpon>smartbillUsersDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d_01.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
